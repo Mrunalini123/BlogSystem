@@ -1,6 +1,7 @@
 *****************Configurations****************
 
 Create database on your system with details below
+
 DBName = BlogSystem
 Address = localhost
 Port = 3306
